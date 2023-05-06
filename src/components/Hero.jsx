@@ -140,7 +140,7 @@ const Hero = () => {
             <OrbitControls enableZoom={false} />
             <ambientLight intensity={5} />
             <directionalLight position={(3, 2, 1)} />
-            <Sphere args={[1, 100, 200]} scale={1.5}>
+            <Sphere args={[1, 100, 200]} scale={1.98}>
               <MeshDistortMaterial
                 color="#220736"
                 attach="material"

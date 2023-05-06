@@ -73,7 +73,7 @@ const Navbar = () => {
     <Section>
       <Container>
         <Links>
-          <Logo src="./img/logo.png" />
+          <Logo src="./img/a.jpeg" />
           <List>
             <ListItem onClick={() => scrollToSection("hero")}>Home</ListItem>
             <ListItem onClick={() => scrollToSection("who")}>Studio</ListItem>
