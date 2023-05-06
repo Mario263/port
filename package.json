@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@emailjs/browser": "^3.11.0",
+    "@emailjs/browser": "^3.7.0",
     "@react-three/drei": "^9.66.1",
     "@react-three/fiber": "^8.13.0",
     "jsx": "^0.9.89",
